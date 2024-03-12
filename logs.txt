@@ -1,0 +1,39 @@
+2023-05-10 22:34:30,283 - my_logger - ERROR - Wrong settings file
+2023-05-10 22:43:27,778 - my_logger - ERROR - Wrong settings file
+2023-05-10 22:43:57,678 - my_logger - ERROR - Wrong settings file
+2023-05-10 22:45:12,292 - my_logger - ERROR - Wrong settings file
+2023-05-10 22:45:54,487 - my_logger - ERROR - Wrong settings file
+2023-05-10 22:46:38,608 - my_logger - ERROR - Wrong settings file
+2023-05-10 22:49:33,437 - my_logger - ERROR - Wrong settings file
+2023-05-10 22:53:13,802 - my_logger - ERROR - Wrong settings file
+2023-05-19 23:50:23,498 - my_logger - ERROR - Wrong settings file
+2023-05-20 01:12:11,065 - my_logger - ERROR - critical exception in code
+2023-05-20 01:12:11,065 - my_logger - ERROR - critical exception in code
+2023-05-20 01:14:00,519 - my_logger - ERROR - critical exception in code
+2023-05-20 01:14:00,519 - my_logger - ERROR - critical exception in code
+2023-05-20 01:14:07,293 - my_logger - ERROR - critical exception in code
+2023-05-20 01:14:07,293 - my_logger - ERROR - critical exception in code
+2023-05-20 01:15:01,216 - my_logger - ERROR - critical exception in code
+2023-05-20 01:15:01,216 - my_logger - ERROR - critical exception in code
+2023-05-20 01:23:10,331 - my_logger - ERROR - critical exception in code
+2023-05-20 01:23:10,331 - my_logger - ERROR - critical exception in code
+2023-05-20 01:23:22,243 - my_logger - ERROR - critical exception in code
+2023-05-20 01:23:22,243 - my_logger - ERROR - critical exception in code
+2023-05-24 02:59:02,911 - my_logger - ERROR - Critical exception
+2023-05-24 02:59:02,911 - my_logger - ERROR - Critical exception
+2023-05-24 02:59:50,881 - my_logger - ERROR - Exception:local variable 'food' referenced before assignment
+2023-05-24 02:59:50,881 - my_logger - ERROR - Exception:local variable 'food' referenced before assignment
+2023-05-24 17:40:39,099 - my_logger - ERROR - asdasd exception:
+2023-05-24 18:43:24,980 - my_logger - ERROR - Exception:start() missing 1 required positional argument: 'screen_width'
+2023-05-24 18:43:24,980 - my_logger - ERROR - Exception:start() missing 1 required positional argument: 'screen_width'
+2023-05-24 18:43:24,980 - my_logger - ERROR - Exception:start() missing 1 required positional argument: 'screen_width'
+2023-05-24 18:43:54,071 - my_logger - ERROR - Exception:local variable 'drawer' referenced before assignment
+2023-05-24 18:43:54,071 - my_logger - ERROR - Exception:local variable 'drawer' referenced before assignment
+2023-05-24 18:43:54,071 - my_logger - ERROR - Exception:local variable 'drawer' referenced before assignment
+2023-05-24 18:49:35,578 - my_logger - ERROR - Exception:Snake.__init__() missing 1 required positional argument: 'drawer'
+2023-05-24 18:49:35,578 - my_logger - ERROR - Exception:Snake.__init__() missing 1 required positional argument: 'drawer'
+2023-05-24 18:49:35,578 - my_logger - ERROR - Exception:Snake.__init__() missing 1 required positional argument: 'drawer'
+2023-05-24 19:21:13,319 - my_logger - ERROR - Something wrong with event.mp3 exception:mixer not initialized
+2023-05-24 19:21:43,561 - my_logger - ERROR - Something wrong with event.mp3 exception:mixer not initialized
+2023-05-24 19:22:01,870 - my_logger - ERROR - Something wrong with event.mp3 exception:mixer not initialized
+2023-05-24 19:22:23,138 - my_logger - ERROR - Something wrong with event.mp3 exception:mixer not initialized
